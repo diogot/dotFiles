@@ -1,0 +1,4 @@
+Host *
+  ControlMaster auto
+  ControlPath /Users/diogo/tmp/%r@%h:%p
+  
