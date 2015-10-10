@@ -5,6 +5,8 @@
         excludesfile = $HOME/.gitignore_global
 [credential]
         helper = osxkeychain
+[push]
+	default = simple
 [mergetool "Kaleidoscope"]
         cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
         trustexitcode = true
