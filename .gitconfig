@@ -6,9 +6,11 @@
 [credential]
         helper = osxkeychain
 [push]
-	default = simple
+        default = simple
 [color]
-	ui = true
+        ui = true
+[format]
+        pretty = oneline
 [mergetool "Kaleidoscope"]
         cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
         trustexitcode = true
