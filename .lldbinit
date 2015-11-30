@@ -1,0 +1,1 @@
+command regex fw 's/(.+)/expr -l objc++ -O -- @import %1/'
