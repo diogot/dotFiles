@@ -28,7 +28,7 @@
 - [Mactracker](http://mactracker.ca)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Objective-Clean](http://objclean.com)
-- [SimPholders2]https://simpholders.com
+- [SimPholders2](https://simpholders.com)
 - [Skitch](https://evernote.com/skitch/)
 - [Skype](http://www.skype.com/en/)
 - [Slack](https://slack.com)
