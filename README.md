@@ -43,14 +43,12 @@
 
 - [Bartender](https://www.macbartender.com)
 - [Charles](http://www.charlesproxy.com)
-- [Deploymate](http://www.deploymateapp.com)
 - [Sequel Pro](http://www.sequelpro.com)
 - [Reveal](http://revealapp.com)
 
 # Safari extensions
 
 - 1Password
-- [Minimal Status Bar](https://visnup.github.io/Minimal-Status-Bar/)
 - [Ghostery](https://www.ghostery.com/en/)
 
 # Xcode extensions
