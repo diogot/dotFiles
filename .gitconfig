@@ -24,9 +24,3 @@
         prompt = false
 [diff]
         tool = Kaleidoscope
-#driver for merging Xcode project files
-[mergetool "mergepbx"]
-    cmd = mergepbx "$BASE" "$LOCAL" "$REMOTE" -o "$MERGED"
-[merge "mergepbx"]
-        name = Xcode project files merger
-        driver = mergepbx %O %A %B   
