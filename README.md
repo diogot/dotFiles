@@ -64,5 +64,6 @@
 # Brew
 
 - bash-completion
+- rbenv
 
 
