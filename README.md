@@ -58,10 +58,17 @@
 # Brew
 
 - bash-completion
+- git
 - rbenv
 
+# Ruby
 
-
+- rbenv init
+- rbenv install 2.3.1
+- rbenv global 2.3.1
+- gem install bundler
+- brew tap homebrew/completions
+- brew instal rake-completion
 
 
 
