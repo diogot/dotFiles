@@ -8,6 +8,7 @@ alias cp="cp -i"
 alias scp="scp -2Crp"
 alias df="df -h"
 alias grep="grep --color"
+alias xcode="open -a Xcode"
 alias fixopenwith='/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user'
 
 # PATH

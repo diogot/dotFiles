@@ -4,56 +4,72 @@
 
 - [1Password](https://agilebits.com/onepassword)
 - [Acorn](http://flyingmeat.com/acorn/)
-- Application Loader
-- [Archiver](http://archiverapp.com)
 - [Arq](https://www.arqbackup.com)
-- [Base](https://menial.co.uk/base/)
+- [Bartender](https://www.macbartender.com)
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/br/app/blackmagic-disk-speed-test/id425264550?l=en&mt=12)
-- [CodeRunner](https://coderunnerapp.com)
-- [CleanMyMac](http://macpaw.com/cleanmymac)
-- [Color Oracle](http://colororacle.org)
+- [BrowserFreedom](https://getbrowserfreedom.com)
+- [Charles](http://www.charlesproxy.com)
+- [Chegou](https://itunes.apple.com/br/app/chegou/id793991304?l=en&mt=12)
+<!-- - [Color Oracle](http://colororacle.org) -->
+- [DaisyDisk](https://daisydiskapp.com)
 - [Dash](https://kapeli.com/dash)
-- [Dropbox](https://www.dropbox.com/)
 - [duet](http://www.duetdisplay.com)
 - [Easy APNs Provider](https://itunes.apple.com/br/app/easy-apns-provider-push-notification/id989622350?l=en&mt=12)
 - [GIFs](https://itunes.apple.com/br/app/gifs/id961850017?l=en&mt=12)
 - [GitUp](http://gitup.co)
+- [Grammarly](https://grammarly.com)
 - [Hex Fiend](http://ridiculousfish.com/hexfiend/)
-- [iStat Menus](https://bjango.com/mac/istatmenus/)
-- [iStumbler](https://istumbler.net)
+<!-- - [iStumbler](https://istumbler.net) -->
 - [Kaleidoscope](http://www.kaleidoscopeapp.com)
-- [Knock](http://www.knocktounlock.com)
+<!-- - [Knock](http://www.knocktounlock.com) -->
+- [Keybase](https://keybase.io)
 - [Library Inspector](https://itunes.apple.com/br/app/library-inspector/id431808420?l=en&mt=12)
 - [Linguan](http://linguanapp.com)
-- [MPlayerX](http://mplayerx.org)
+<!-- - [MPlayerX](http://mplayerx.org) -->
 - [MacDown](http://macdown.uranusjr.com)
 - [Mactracker](http://mactracker.ca)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
-- [Objective-Clean](http://objclean.com)
-- [PasteBot](http://tapbots.com/pastebot/beta/)
+<!-- - [Objective-Clean](http://objclean.com) -->
+<!-- - [PasteBot](http://tapbots.com/pastebot/beta/) -->
 - [Paw](https://paw.cloud)
-- [SimPholders2](https://simpholders.com)
+- [Reveal](http://revealapp.com)
+- [Realm Browser](https://itunes.apple.com/br/app/realm-browser/id1007457278?l=en&mt=12)
+- [Setapp](https://setapp.com)
+<!-- - [SimPholders2](https://simpholders.com) -->
 - [Skitch](https://evernote.com/skitch/)
 - [Skype](http://www.skype.com/en/)
 - [Slack](https://slack.com)
+- [Steam](https://steamcommunity.com)
+- [Spotify](http://spotify.com)
 - [TextMate](https://macromates.com)
 - [Transmit](https://panic.com/transmit/)
 - [Tweetbot](http://tapbots.com/tweetbot/)
-- Xcode
-- [Brew](http://brew.sh)
+- [Xcode](https://itunes.apple.com/br/app/xcode/id497799835?l=en&mt=12)
+- [xScope](http://xscopeapp.com)
+- [Zeplin](https://zeplin.io)
 
-## Aditional
+# Setapp
 
-- [Bartender](https://www.macbartender.com)
-- [Charles](http://www.charlesproxy.com)
-- [Sequel Pro](http://www.sequelpro.com)
-- [Reveal](http://revealapp.com)
+- [Archiver](http://archiverapp.com)
+- [Base](https://menial.co.uk/base/)
+- [CleanMyMac](http://macpaw.com/cleanmymac)
+- [CodeRunner](https://coderunnerapp.com)
+- [Dropshare](https://dropshare.cloud)
+- [Elmedia Player](https://mac.eltima.com/media-player.html)
+- [Gemini](https://macpaw.com/gemini)
+- [Gifox](http://gifox.io)
+- [iMazing](https://imazing.com)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [Mosaic](https://lightpillar.com/mosaic.html)
+- [NetSpot](https://www.netspotapp.com)
+- [Numi](http://numi.io)
+- [Paste](http://pasteapp.me)
+- [Timing](http://timingapp.com)
 
 # Safari extensions
 
 - 1Password
 - [Ghostery](https://www.ghostery.com/en/)
-
 
 # Brew
 
@@ -64,8 +80,8 @@
 # Ruby
 
 - rbenv init
-- rbenv install 2.3.1
-- rbenv global 2.3.1
+- rbenv install 2.4.0
+- rbenv global 2.4.0
 - gem install bundler
 - brew tap homebrew/completions
 - brew instal rake-completion
