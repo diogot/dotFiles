@@ -1,1 +1,4 @@
 command regex fw 's/(.+)/expr -l objc++ -O -- @import %1/'
+### Reveal LLDB commands support - DO NOT MODIFY
+command script import /Applications/Reveal.app/Contents/SharedSupport/Scripts/RevealServerCommands.py
+###

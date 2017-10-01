@@ -6,7 +6,7 @@
 - [Acorn](http://flyingmeat.com/acorn/)
 - [Arq](https://www.arqbackup.com)
 - [Bartender](https://www.macbartender.com)
-- [Brisk](https://github.com/br1sk/brisk)
+<!-- - [Brisk](https://github.com/br1sk/brisk) -->
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/br/app/blackmagic-disk-speed-test/id425264550?l=en&mt=12)
 - [BrowserFreedom](https://getbrowserfreedom.com)
 - [Charles](http://www.charlesproxy.com)
@@ -14,7 +14,7 @@
 <!-- - [Color Oracle](http://colororacle.org) -->
 - [DaisyDisk](https://daisydiskapp.com)
 - [Dash](https://kapeli.com/dash)
-- [duet](http://www.duetdisplay.com)
+<!-- - [duet](http://www.duetdisplay.com) -->
 - [Discord](https://discordapp.com)
 - [Easy APNs Provider](https://itunes.apple.com/br/app/easy-apns-provider-push-notification/id989622350?l=en&mt=12)
 - [GIFs](https://itunes.apple.com/br/app/gifs/id961850017?l=en&mt=12)
@@ -34,6 +34,8 @@
 <!-- - [Objective-Clean](http://objclean.com) -->
 <!-- - [PasteBot](http://tapbots.com/pastebot/beta/) -->
 - [Paw](https://paw.cloud)
+<!-- - [Pusher](https://github.com/noodlewerk/NWPusher) -->
+<!-- - [R](https://www.r-project.org) -->
 - [Reveal](http://revealapp.com)
 - [Realm Browser](https://itunes.apple.com/br/app/realm-browser/id1007457278?l=en&mt=12)
 - [Setapp](https://setapp.com)
@@ -78,6 +80,14 @@
 - bash-completion
 - git
 - rbenv
+- brew tap caskroom/cask
+
+## Cask
+
+- brisk
+- mactex
+- pusher
+- r-app
 
 # Ruby
 
