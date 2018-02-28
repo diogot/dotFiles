@@ -1,12 +1,12 @@
 [user]
-        name = Diogo Tridapalli
-        email = XXX@XXXXX
+        name = Diogo T
+        email = XXXXX@XXXXX
 [core]
         excludesfile = ~/.gitignore_global
 [credential]
         helper = osxkeychain
 [push]
-        default = simple
+        default = current
 [color]
         ui = true
 [format]
