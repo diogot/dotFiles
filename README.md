@@ -75,8 +75,6 @@
 # Ruby
 
 - rbenv init
-- rbenv install 2.4.4
-- rbenv global 2.4.4
+- rbenv install 2.6.2
+- rbenv global 2.6.2
 - gem install bundler
-- brew tap homebrew/completions
-- brew instal rake-completion
