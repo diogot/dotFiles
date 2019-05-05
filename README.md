@@ -5,14 +5,13 @@
 - [1Password](https://agilebits.com/onepassword)
 - [Acorn](http://flyingmeat.com/acorn/)
 - [Arq](https://www.arqbackup.com)
-- [Bartender](https://www.macbartender.com)
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/br/app/blackmagic-disk-speed-test/id425264550?l=en&mt=12)
 - [BrowserFreedom](https://getbrowserfreedom.com)
 - [Charles](http://www.charlesproxy.com)
 - [Chrome](https://www.google.com/chrome/)
 - [DaisyDisk](https://daisydiskapp.com)
 - [Dash](https://kapeli.com/dash)
-- [GIFs](https://itunes.apple.com/br/app/gifs/id961850017?l=en&mt=12)
+- [GIFs](https://github.com/orta/GIFs)
 - [GitUp](http://gitup.co)
 - [Grammarly](https://grammarly.com)
 - [Kaleidoscope](http://www.kaleidoscopeapp.com)
@@ -40,6 +39,7 @@
 # Setapp
 
 - [Archiver](http://archiverapp.com)
+- [Bartender](https://www.macbartender.com)
 - [Base](https://menial.co.uk/base/)
 - [CleanMyMac](http://macpaw.com/cleanmymac)
 - [CodeRunner](https://coderunnerapp.com)
@@ -64,7 +64,6 @@
 - bash-completion
 - git
 - rbenv
-- brew tap caskroom/cask
 
 ## Cask
 
