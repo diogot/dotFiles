@@ -61,6 +61,7 @@
 
 ## Cask
 
+- gpg-suite
 - brisk
 - mactex
 - r-app
