@@ -1,12 +1,13 @@
 [user]
         name = Diogo T
         email = XXXXX@XXXXX
+        signingkey = XXXXX
 [core]
         excludesfile = ~/.gitignore_global
 [credential]
         helper = osxkeychain
 [push]
-        default = current
+        default = simple
 [color]
         ui = true
 [format]
@@ -24,3 +25,7 @@
         prompt = false
 [diff]
         tool = Kaleidoscope
+[commit]
+	gpgSign = true
+[gpg]
+	program = /usr/local/MacGPG2/bin/gpg2
