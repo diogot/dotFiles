@@ -1,4 +1,15 @@
-# Configuration files and usefull progams
+# Configuration files and useful programs
+
+# Brew
+
+- brew bundle
+
+# Ruby
+
+- rbenv init
+- rbenv install 2.6.6
+- rbenv global 2.6.6
+- gem install bundler
 
 # Apps
 
@@ -6,41 +17,46 @@
 - [Acorn](http://flyingmeat.com/acorn/)
 - [Arq](https://www.arqbackup.com)
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/br/app/blackmagic-disk-speed-test/id425264550?l=en&mt=12)
+- [Brave](https://brave.com)
+- [Buildwatch](https://apps.apple.com/br/app/buildwatch-for-xcode/id1523347474?l=en&mt=12)
 - [Charles](http://www.charlesproxy.com)
-- [Chrome](https://www.google.com/chrome/)
+- [Core Data Lab](https://apps.apple.com/br/app/core-data-lab/id1460684638?l=en&mt=12)
 - [DaisyDisk](https://daisydiskapp.com)
 - [Dash](https://kapeli.com/dash)
 - [DevCleaner](https://apps.apple.com/br/app/devcleaner-for-xcode/id1388020431?l=en&mt=12)
 - [Figma](https://www.figma.com/downloads/)
 - [GIFs](https://github.com/orta/GIFs)
-- [GitUp](http://gitup.co)
+- [Formatter: JSON for Xcode](https://apps.apple.com/br/app/formatter-json-for-xcode/id1190228172?l=en&mt=12)
 - [Grammarly](https://grammarly.com)
 - [iMazing](https://imazing.com/download/macos)
 - [Kaleidoscope](http://www.kaleidoscopeapp.com)
-- [Keybase](https://keybase.io)
-- [Library Inspector](https://itunes.apple.com/br/app/library-inspector/id431808420?l=en&mt=12)
 - [Linguan](http://linguanapp.com)
-- [Mockoon](https://mockoon.com)
 - [Mactracker](http://mactracker.ca)
+- [Mockoon](https://mockoon.com)
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 - [NativeConnect](https://nativeconnect.app)
 - [NetNewsWire](https://ranchero.com/netnewswire/)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Pastebot](https://tapbots.com/pastebot/)
 - [Paw](https://paw.cloud)
+- [Pi Stats](https://apps.apple.com/br/app/pi-stats/id1514075262?l=en&mt=12)
+- [Raindrop](https://apps.apple.com/br/app/raindrop-io-for-safari/id957810159?l=en&mt=12)
 - [Reveal](http://revealapp.com)
 - [RubyMine](https://www.jetbrains.com/ruby/download/#section=mac)
 - [Setapp](https://setapp.com)
+- [SF Symbols](https://developer.apple.com/sf-symbols/)
 - [SimSim](https://github.com/dsmelov/simsim)
 - [Slack](https://slack.com)
-- [Steam](https://steamcommunity.com)
 - [StopTheMadness](https://apps.apple.com/br/app/stopthemadness/id1376402589?l=en&mt=12)
-- [TextMate](https://macromates.com)
 - [Tower](https://www.git-tower.com/mac)
 - [Transmit](https://panic.com/transmit/)
 - [Tweetbot](http://tapbots.com/tweetbot/)
+- [UTMBeGone](https://apps.apple.com/br/app/utmbegone/id1530867730?l=en&mt=12)
 - [VSCode](https://code.visualstudio.com)
 - [Xcode](https://itunes.apple.com/br/app/xcode/id497799835?l=en&mt=12)
+- [xcsort](https://apps.apple.com/br/app/xcsort/id1153337296?l=en&mt=12)
 - [xScope](http://xscopeapp.com)
+- [Zoom](https://zoom.us)
 
 # Setapp
 
@@ -55,28 +71,15 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
 - [Numi](http://numi.io)
 - [Timing](http://timingapp.com)
+- [ToothFairy](https://c-command.com/toothfairy/)
 - [World Clock Pro](http://worldclock.pro)
 
-# Safari extensions
+# VSCode extensions
 
-- [Ghostery](https://www.ghostery.com/en/)
-
-# Brew
-
-- bash-completion
-- git
-- rbenv
-
-## Cask
-
-- gpg-suite
-- brisk
-- mactex
-- r-app
-
-# Ruby
-
-- rbenv init
-- rbenv install 2.6.2
-- rbenv global 2.6.2
-- gem install bundler
+- Code Spell Checker
+- Danger
+- Dash
+- gitignore
+- GitLens - Git supercharged
+- iOS Common Files
+- Latex Workshop
