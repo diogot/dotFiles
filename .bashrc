@@ -16,6 +16,8 @@ export PATH="~/bin:/usr/local/sbin:$PATH"
 export EDITOR=vim
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
+export HOMEBREW_NO_GITHUB_API=1
+
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
     . $(brew --prefix)/etc/bash_completion
 fi

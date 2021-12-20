@@ -7,8 +7,8 @@
 # Ruby
 
 - rbenv init
-- rbenv install 2.6.6
-- rbenv global 2.6.6
+- rbenv install 2.7.2
+- rbenv global 2.7.2
 - gem install bundler
 
 # Apps
@@ -33,8 +33,6 @@
 - [Linguan](http://linguanapp.com)
 - [Mactracker](http://mactracker.ca)
 - [Mockoon](https://mockoon.com)
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
-- [NativeConnect](https://nativeconnect.app)
 - [NetNewsWire](https://ranchero.com/netnewswire/)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Pastebot](https://tapbots.com/pastebot/)
@@ -62,20 +60,21 @@
 
 - [Archiver](http://archiverapp.com)
 - [Bartender](https://www.macbartender.com)
-- [Base](https://menial.co.uk/base/)
 - [CleanMyMac](http://macpaw.com/cleanmymac)
+- [Dash](https://kapeli.com/dash)
+- [DisplayBuddy](https://displaybuddy.app)
 - [Dropshare](https://dropshare.cloud)
-- [Elmedia Player](https://mac.eltima.com/media-player.html)
-- [Gemini](https://macpaw.com/gemini)
-- [Gifox](http://gifox.io)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [Lungo](https://sindresorhus.com/lungo)
+- [Meeter](https://trymeeter.com)
+- [MetaImage](https://neededapps.com/metaimage/)
 - [Numi](http://numi.io)
+- [Petrify](https://www.dangercove.com/petrify/)
 - [Timing](http://timingapp.com)
-- [ToothFairy](https://c-command.com/toothfairy/)
-- [World Clock Pro](http://worldclock.pro)
 
 # VSCode extensions
 
+- C/C++
 - Code Spell Checker
 - Danger
 - Dash
