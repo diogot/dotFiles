@@ -1,7 +1,12 @@
 # Configuration files and useful programs
 
+# Bash
+
+- chsh -s /bin/bash
+
 # Brew
 
+- https://brew.sh
 - brew bundle
 
 # Ruby
