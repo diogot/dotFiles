@@ -8,13 +8,15 @@
         helper = osxkeychain
 [push]
         default = simple
+[pull]
+        rebase = true
 [color]
         ui = true
 [format]
         pretty = oneline
 [mergetool "Kaleidoscope"]
         cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
-        trustexitcode = true
+        trustExitCode = true
 [mergetool]
         prompt = false
 [merge]
@@ -23,9 +25,13 @@
         cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
 [difftool]
         prompt = false
+        trustExitCode = true
 [diff]
         tool = Kaleidoscope
 [commit]
-	gpgSign = true
+        gpgsign = true
 [gpg]
-	program = /usr/local/MacGPG2/bin/gpg2
+        format = ssh
+[gpg "ssh"]
+        program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
+        allowedSignersFile = <user-path>/.ssh/git/allowed_signers

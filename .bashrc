@@ -16,7 +16,10 @@ export PATH="~/bin:/usr/local/sbin:$PATH"
 export EDITOR=vim
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
+# Set PATH, MANPATH, etc., for Homebrew.
 export HOMEBREW_NO_GITHUB_API=1
+export HOMEBREW_NO_ANALYTICS=1
+eval "$(/opt/homebrew/bin/brew shellenv)"
 
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
     . $(brew --prefix)/etc/bash_completion
