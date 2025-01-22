@@ -27,3 +27,7 @@ fi
 
 # Ruby
 eval "$(rbenv init -)"
+
+# Asdf
+. "/opt/homebrew/opt/asdf/libexec/asdf.sh"
+. "/opt/homebrew/opt/asdf/etc/bash_completion.d/asdf.bash"

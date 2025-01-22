@@ -1,37 +1,39 @@
 [user]
-        name = Diogo T
-        email = XXXXX@XXXXX
-        signingkey = XXXXX
+	name = Diogo T
+	email = XXXXX@XXXXX
+	signingkey = XXXXX
 [core]
-        excludesfile = ~/.gitignore_global
+	excludesfile = ~/.gitignore_global
 [credential]
-        helper = osxkeychain
+	helper = osxkeychain
 [push]
-        default = simple
+	default = simple
 [pull]
-        rebase = true
+	rebase = true
 [color]
-        ui = true
+	ui = true
 [format]
-        pretty = oneline
+	pretty = oneline
 [mergetool "Kaleidoscope"]
-        cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
-        trustExitCode = true
+	cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
+	trustExitCode = true
 [mergetool]
-        prompt = false
+	prompt = false
 [merge]
-        tool = Kaleidoscope
+	tool = Kaleidoscope
 [difftool "Kaleidoscope"]
-        cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
+	cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
 [difftool]
-        prompt = false
-        trustExitCode = true
+	prompt = false
+	trustExitCode = true
 [diff]
-        tool = Kaleidoscope
+	tool = Kaleidoscope
 [commit]
-        gpgsign = true
+	gpgsign = true
 [gpg]
-        format = ssh
+	format = ssh
 [gpg "ssh"]
-        program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
-        allowedSignersFile = <user-path>/.ssh/git/allowed_signers
+	program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
+	allowedSignersFile = <user-path>/.ssh/git/allowed_signers
+[init]
+	defaultBranch = main
